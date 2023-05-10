@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    background-image:url("https://acegif.com/wp-content/gifs/starfall-gif-68.gif");
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    /* background-clip: border-box; */
+    color: aliceblue;
+}
+.card-header{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.container{
+    font-family: 'Times New Roman', Times, serif;  
+    /* border:2px solid black;  */
+    box-shadow: 10px;
+    height: 19rem;
+    width: 20rem;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+strong{
+    margin-top: -8px;
+    margin-bottom:2px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.card{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    /* box-shadow: 10px; */
+    box-shadow: 0 20px 30px 0 rgba(156, 153, 153, 0.2);
+}
+.btn-view{
+    margin-left: 0.4rem;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding-top: 3px;
+    height: 2rem;
+    width: 6rem;
+    color: black;
+    font-family: sans-serif;
+    background-color: white;
+}

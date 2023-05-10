@@ -1,0 +1,82 @@
+.btn-add{
+    /* margin-left: 1rem; */
+    padding-right: 2px;
+    border: 1px solid rgb(80, 12, 54);
+    border-radius: 20px;
+    padding-top: 3px;
+    height: 2rem;
+    width: 8.4rem;
+    font-size: 1.4rem;
+    font-family:sans-serif;
+    box-sizing: border-box;
+    color: rgb(239, 237, 234);
+    font-weight: bold;
+    background-color: rgb(234, 177, 5);
+    box-shadow: -2px 2px rgb(219, 214, 214); 
+}
+h3{
+    font-family:initial;
+    font-weight: 100;
+}
+
+.styled-table{
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: black; */
+    border-radius: 20px;
+    width: 80%;
+    margin-left:10rem;
+    margin-top: 4rem;
+    font-size: 2rem;
+    box-shadow: 0 20px 30px 0 rgba(235, 229, 229, 0.2);
+
+}
+.styled-table td, .styled-table th{
+    /* border: 1px solid #ddd; */
+    margin: 2rem 2rem 2rem 2rem;
+    /* border: 1px solid white; */
+    /* border-left: 1px solid white;
+    border-right: 1px solid white; */
+    padding: 8px;
+    font-family:monospace;
+    font-size: 1.3rem;
+}
+.heading{
+    font-weight: bolder;
+    font-size: 2rem;
+}
+.btn-edit{
+    margin-right: 0.4rem;
+    border: 1px solid rgb(11, 132, 9);
+    border-radius: 20px;
+    padding-top: 3px;
+    height: 2rem;
+    width: 6rem;
+    font-size: 1rem;
+    font-family:sans-serif;
+    color: white;
+    background-color: rgb(11, 132, 9);
+}
+.btn-delete{
+    border: 1px solid rgb(234, 41, 41);
+    border-radius: 20px;
+    padding-top: 3px;
+    height: 2rem;
+    width: 6rem;
+    font-size: 1rem;
+    font-family:sans-serif;
+    color: white;
+    background-color: rgb(234, 41, 41);
+}
+img{
+    height: 20px;
+    width: 20px;
+    margin-bottom: 1px;
+    margin-right: 3rem;
+}
+
+th{
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+ 
